@@ -10,7 +10,7 @@
 - 🔐 GPG-encrypted JSON credential storage
 - 🔍 Search, update, or delete credentials
 - 🧠 Smart Placeholder replacement in commands
-- ⚡️ Fast selection using fzf
+- ⚡️ Fast target/user selection using fzf
 - 🧹 Restores terminal after broken tools
 - 🧾 Secure On-The-Go Pentesting Notes (NEW)
 - 🧪 Command Templates (NEW)
