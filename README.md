@@ -26,7 +26,7 @@
 #### 1. Installation & Setup  📦
 
 ##### As Debian package (Recommanded)
-##### Tested Only on Kali Linux VM ⚠️
+##### Tested Only on a Kali Linux VM ⚠️
 ```bash
 git clone https://github.com/shutteroverfoe-doteyebee/cr3di.git
 ```
