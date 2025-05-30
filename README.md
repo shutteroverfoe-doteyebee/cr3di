@@ -44,8 +44,6 @@ cd ..
 ```bash
 sudo apt install ./cr3di_xxxxxxx.deb
 ```
-**Recommended : refresh your terminal or just exit it and open it again** 
-
 ```bash
 gpg --full-generate-key
 ```
