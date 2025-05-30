@@ -12,7 +12,7 @@
 - 🧠 Smart Placeholder replacement in commands
 - ⚡️ Fast selection using fzf
 - 🧹 Restores terminal after broken tools
-- 🧾 Secure Notes (NEW)
+- 🧾 Secure On-The-Go Pentesting Notes (NEW)
 - 🧪 Command Templates (NEW)
 - 📤 Export to Spreadsheet (NEW)
 
