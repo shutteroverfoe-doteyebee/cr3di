@@ -9,9 +9,12 @@
 ###  Features🚀
 - 🔐 GPG-encrypted JSON credential storage
 - 🔍 Search, update, or delete credentials
-- 🧠 Auto placeholder replacement in commands
+- 🧠 Smart Placeholder replacement in commands
 - ⚡️ Fast selection using fzf
 - 🧹 Restores terminal after broken tools
+- 🧾 Secure Notes (NEW)
+- 🧪 Command Templates (NEW)
+- 📤 Export to Spreadsheet (NEW)
 
 ------------
 
