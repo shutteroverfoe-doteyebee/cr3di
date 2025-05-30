@@ -20,7 +20,7 @@
 
 
 
-#### 1. Installation  📦
+#### 1. Installation & Setup  📦
 
 ##### As Debian package (Recommanded)
 ```bash
