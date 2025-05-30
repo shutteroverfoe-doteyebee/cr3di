@@ -1,0 +1,4 @@
+typer[all]
+pydantic
+python-gnupg
+InquirerPy

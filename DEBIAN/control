@@ -1,0 +1,9 @@
+Package: cr3di
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-pip, fzf
+Maintainer: ShutterOverFoe <github.donor666@passinbox.com>
+Description: Encrypted credential manager CLI for pentesters.
+ Securely store and inject credentials into commands using {{user}}, {{pass}}, etc.

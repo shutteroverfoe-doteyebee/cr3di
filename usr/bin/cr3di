@@ -1,0 +1,2 @@
+#!/bin/bash
+PYTHONPATH=/opt/cr3di exec python3 -m cr3di "$@"
